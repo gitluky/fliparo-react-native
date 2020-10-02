@@ -1,0 +1,12 @@
+{
+  "name": "fliparo-react-native",
+  "displayName": "fliparo-react-native",
+  "expo": {
+    "name": "fliparo-react-native",
+    "slug": "fliparo-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
